@@ -1,0 +1,7 @@
+ruby '2.1.5'
+gem 'sinatra'
+gem 'activerecord'
+gem 'minitest'
+gem 'sinatra-websocket'
+gem 'sinatra-contrib'
+gem 'thin', '~> 1.6.3'
